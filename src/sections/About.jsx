@@ -20,8 +20,6 @@ const About = () => {
             <p className="headtext">Hi, I'm Harsh Tiwari</p>
             <p className="subtext">
               A final-year CSE student at SRM Institute of Science and Technology with a CGPA of 8.48. I’m interested in Full Stack Development and have built projects using the MERN stack along with skills in C++, JavaScript, and SQL.
-            <br />
-              I enjoy turning ideas into real, useful solutions and see every project as a chance to learn and improve. Outside of tech, I like playing cricket and games, which have taught me patience, teamwork, and persistence. I’m not overly talkative but I work well in teams, communicate clearly, and try to meet deadlines while taking on challenges for the experience they bring.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-events-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -87,7 +85,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headtext">Time Zone</p>
             <p className="subtext">
-              I'm based in India, and open to work worldwide
+              I'm based in India, and open to work worldwide.
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">
