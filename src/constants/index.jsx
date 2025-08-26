@@ -110,6 +110,37 @@ export const myProjects = [
       },
     ],
   },
+  {
+    id: 4,
+    title: "Bulletin Board",
+    description:
+      "Local Community Bulletin Board - A modern React web app created during the Bolt AI hackathon for neighborhood residents to share announcements, events, and alerts digitally.",
+    subDescription: [
+      "Centralized platform for neighbors to share announcements, events, lost pets, and safety alerts in one organized location.",
+      "Real-time search, category filtering, and urgent post prioritization ensure critical information reaches residents quickly.",
+      "Mobile-responsive interface with intuitive navigation, smooth animations, and one-click contact integration for seamless communication.",
+    ],
+    href: "https://local-bulletin-board.netlify.app/",
+    logo: "",
+    image: "/assets/projects/bulletin.png",
+    tags: [
+      {
+        id: 1,
+        name: "TypeScript",
+        path: "/assets/logos/typescript.svg",
+      },
+      {
+        id: 2,
+        name: "React",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 3,
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+    ],
+  },
   
 ];
 
