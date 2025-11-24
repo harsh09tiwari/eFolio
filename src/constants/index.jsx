@@ -162,7 +162,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/09harshtiwari/reels/",
+    href: "https://www.instagram.com/harsh09tiwari",
     icon: "/assets/socials/instagram.svg",
   },
 ];
