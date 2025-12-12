@@ -141,8 +141,42 @@ export const myProjects = [
       },
     ],
   },
-  
+  {
+    id: 5,
+    title: "Multi Tenancy System",
+    description:
+      "A multi-tenant backend service built with Node.js and MongoDB. Features dynamic collection creation for data isolation, secure Admin authentication (JWT), and complete CRUD operations.",
+    subDescription: [
+      ,
+    ],
+    href: "https://github.com/harsh09tiwari/org-management-service",
+    logo: "",
+    image: "",
+    tags: [
+      {
+        id: 1,
+        name: "JavaScript",
+        path: "/assets/logos/javascript.svg",
+      },
+      {
+        id: 2,
+        name: "Nodejs",
+        path: "/assets/logos/nodejs.svg",
+      },
+      {
+        id: 3,
+        name: "MongoDB",
+        path: "/assets/logos/MongoDB.svg",
+      },
+      {
+        id: 4,
+        name: "Express",
+        path: "/assets/logos/express.svg",
+      },
+    ],
+  }
 ];
+
 
 export const mySocials = [
   {
