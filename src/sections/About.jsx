@@ -19,7 +19,7 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Harsh Tiwari</p>
             <p className="subtext">
-              A final-year CSE student at SRM Institute of Science and Technology with a CGPA of 8.48. I’m interested in Full Stack Development and have built projects using the MERN stack along with skills in C++, JavaScript, and SQL.
+A Computer Science graduate from SRM Institute of Science and Technology with a CGPA of 8.48. I build full-stack web applications using the MERN stack and have hands-on experience with React, Node.js, Express.js, MongoDB, JavaScript, C++, Java, and SQL.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-events-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
